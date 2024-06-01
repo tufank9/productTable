@@ -1,0 +1,15 @@
+.container-table {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.fruit,
+.veggie {
+    list-style: none;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+}
